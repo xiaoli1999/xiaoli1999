@@ -1,4 +1,4 @@
-### Hi，我 是黎 | 是采黎 | 是小黎
+** Hi，我是 黎 | 是 采黎 | 是 小黎 **
 
 你好， 我是 [黎](https://xiaoli.vip) ，出生于1999年，一位有3年工作经验的前端开发工程师。
 
@@ -6,7 +6,7 @@
 - 📫 我的邮箱: [22708206@qq.com](https://xiaoli.vip)
 - 📝 我的网站: [https://xiaoli.vip](https://xiaoli.vip)
 
-#### 技术栈 | 开发工具
+### 技术栈 、 开发工具
 
 <code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
 <code><img height="20" src="./img/skill/Css.png" title="Css" /></code>
@@ -26,15 +26,14 @@
 <code><img height="20" src="./img/skill/Webstorm.png" title="Webstorm" /></code>
 <code><img height="20" src="./img/skill/Vscode.png" title="Vscode" /></code>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoli1999&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-#### 个人网站 | 技术社区
+### 个人网站 、 技术社区
 
 * [黎-小黎充电站](https://xiaoli.vip)
 * [黎-掘金](https://juejin.cn/user/4438109753182343)
 * [黎-CSDN](https://blog.csdn.net/weixin_53673959?type=blog)
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoli1999&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
