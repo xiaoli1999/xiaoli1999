@@ -1,4 +1,4 @@
-**Hi，我是 黎，昵称 采黎、小黎**
+**Hi，我是 黎，可以叫我 采黎、小黎**
 
 [黎](https://xiaoli.vip) ，1999年，一位有奇思妙想且喜欢做一些花里胡哨的前端开发人员。
 
@@ -30,9 +30,9 @@
 
 ### 个人网站 、 技术社区
 
-* [黎-小黎充电站](https://xiaoli.vip)
-* [黎-掘金](https://juejin.cn/user/4438109753182343)
-* [黎-CSDN](https://blog.csdn.net/weixin_53673959?type=blog)
+* [黎 - 小黎充电站](https://xiaoli.vip)
+* [黎 - 掘金](https://juejin.cn/user/4438109753182343)
+* [黎 - CSDN](https://blog.csdn.net/weixin_53673959?type=blog)
 
 ---
 
