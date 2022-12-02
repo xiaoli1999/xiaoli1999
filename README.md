@@ -1,10 +1,11 @@
-**Hi，我是 黎 | 是 采黎 | 是 小黎**
+**Hi，我是 黎，昵称 采黎、小黎**
 
-你好， 我是 [黎](https://xiaoli.vip) ，出生于1999年，一位有3年工作经验的前端开发工程师。
+[黎](https://xiaoli.vip) ，1999年，一位有奇思妙想且喜欢做一些花里胡哨的前端开发人员。
 
 - 💬 如果你对我感兴趣，可以加我[微信](https://xiaoli.vip) 进一步交流
 - 📫 我的邮箱: [22708206@qq.com](https://xiaoli.vip)
 - 📝 我的网站: [https://xiaoli.vip](https://xiaoli.vip)
+
 
 ### 技术栈 、 开发工具
 
@@ -25,6 +26,7 @@
 <code><img height="20" src="./img/skill/Stylelint.png" title="Stylelint" /></code>
 <code><img height="20" src="./img/skill/Webstorm.png" title="Webstorm" /></code>
 <code><img height="20" src="./img/skill/Vscode.png" title="Vscode" /></code>
+
 
 ### 个人网站 、 技术社区
 
