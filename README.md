@@ -8,7 +8,7 @@
 - 📫 我的邮箱: [22708206@qq.com](https://xiaoli.vip)
 - 📝 我的网站: [https://xiaoli.vip](https://xiaoli.vip)
 
-#### 前端技术
+### 前端技术
 <code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
 <code><img height="20" src="./img/skill/Css.png" title="Css" /></code>
 <code><img height="20" src="./img/skill/Less.png" title="Less" /></code>
@@ -24,17 +24,17 @@
 
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact"/>
 
-#### 后端技术
+### 后端技术
 <code><img height="20" src="./img/skill/Node.png" title="NodeJS" /></code>
 <code><img height="20" src="./img/skill/Express.png" title="ExpressJS" /></code>
 <code><img height="20" src="./img/skill/Squelize.png" title="Squelize" /></code>
 <code><img height="20" src="./img/skill/Mysql.png" title="Mysql" /></code>
 
-#### 代码规范
+### 代码规范
 <code><img height="20" src="./img/skill/Eslint.png" title="Eslint" /></code>
 <code><img height="20" src="./img/skill/Stylelint.png" title="Stylelint" /></code>
 
-#### 开发工具
+### 开发工具
 <code><img height="20" src="./img/skill/Webstorm.png" title="Webstorm" /></code>
 <code><img height="20" src="./img/skill/Vscode.png" title="Vscode" /></code>
 <code><img height="20" src="./img/skill/HBilderX.png" title="HBilderX" /></code>
@@ -42,7 +42,7 @@
 
 ---
 
-#### 个人网站 | 技术社区
+### 个人网站 | 技术社区
 
 * [黎-小黎充电站](https://xiaoli.vip)
 * [黎-掘金](https://juejin.cn/user/4438109753182343)
