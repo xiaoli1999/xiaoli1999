@@ -8,8 +8,6 @@
 - 📫 我的邮箱: [22708206@qq.com](https://xiaoli.vip)
 - 📝 我的网站: [https://xiaoli.vip](https://xiaoli.vip)
 
-<img align="right" width="380" style="margin-top: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact"/>
-
 #### 前端技术
 
 <code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
@@ -24,6 +22,8 @@
 <code><img height="20" src="./img/skill/Uniapp.png" title="Uniapp" /></code>
 <code><img height="20" src="./img/skill/Wxapp.png" title="微信小程序" /></code>
 <code><img height="20" src="./img/skill/Vite.png" title="Vite" /></code>
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact"/>
 
 #### 后端技术
 
