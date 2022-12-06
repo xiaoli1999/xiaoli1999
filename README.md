@@ -8,7 +8,7 @@
 - 📫 我的邮箱: [22708206@qq.com](https://xiaoli.vip)
 - 📝 我的网站: [https://xiaoli.vip](https://xiaoli.vip)
 
-<img align="right" width="380" style="margin-top: 24px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact"/>
+<img align="right" width="380" style="margin-top: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact"/>
 
 #### 前端技术
 
