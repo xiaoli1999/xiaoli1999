@@ -1,8 +1,8 @@
 ### Hi，我 是黎 | 是采黎 | 是小黎
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=xiaoli1999&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
-
 你好， 我是 [黎](https://xiaoli.vip) ，一位有奇思妙想且喜欢做一些花里胡哨的小东西的前端开发人员。
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=xiaoli1999&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
 - 💬 如果你对我感兴趣，可以加我[微信](https://xiaoli.vip) 进一步交流
 - 📫 我的邮箱: [22708206@qq.com](https://xiaoli.vip)
@@ -10,7 +10,7 @@
 
 
 <br />
-<img align="right" width="400" style="margin-top:30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact"/>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoli1999&layout=compact"/>
 
 #### 前端技术
 
