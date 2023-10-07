@@ -5,8 +5,8 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=xiaoli1999&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
 - 💬 如果你对我感兴趣，可以加我[微信](https://xiaoli.vip) 进一步交流
-- 📫 我的邮箱: [22708206@qq.com](https://www.xiaoli.vip)
-- 📝 我的网站: [https://xiaoli.vip](https://www.xiaoli.vip)
+- 📫 我的邮箱: [22708206@qq.com](mailto:22708206@qq.com)
+- 📝 我的网站: [https://www.xiaoli.vip](https://www.xiaoli.vip)
 
 ### 前端技术
 <code><img height="20" src="./img/skill/Html.png" title="Html" /></code>
